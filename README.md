@@ -1,10 +1,10 @@
 # A PHP based WebApp which implements all the CRUD functions.
-<h1>What is a Web App ?</h1>
-<h2>An App which works on all devices like Mobile, Desktop and Tablet. <a href="https://en.wikipedia.org/wiki/Web_application">Read More...</a></h2>
-<h1>What is CRUD ?</h1>
-<h2>CRUD stands for Create, Read, Update and Delete</h2>
+<h3>What is a Web App ?</h3>
+<h4>An App which works on all devices like Mobile, Desktop and Tablet. <a href="https://en.wikipedia.org/wiki/Web_application">Read More...</a></h4>
+<h3>What is CRUD ?</h3>
+<h4>CRUD stands for Create, Read, Update and Delete</h4>
 <p>A To-Do List WebApp is created to implement the CRUD operations.</p>
-<h2>How to customize this WebApp on your own ?</h2>
+<h3>How to customize this WebApp on your own ?</h3>
 Step 1: Download or clone the repostory.<br>
 Step 2: Download and install XAMPP.<br>
 Step 3: Store the folder in the XAMPP-> htdocs folder.<br>
