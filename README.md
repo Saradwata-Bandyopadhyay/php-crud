@@ -1,6 +1,6 @@
 # A PHP based WebApp which implements all the CRUD functions.
 <h3>What is a Web App ?</h3>
-<h4>An App which works on all devices like Mobile, Desktop and Tablet. <a href="https://en.wikipedia.org/wiki/Web_application">Read More...</a></h4>
+<h4>A Website that works like an App and works on all devices like Mobile, Desktop and Tablet. <a href="https://en.wikipedia.org/wiki/Web_application">Read More...</a></h4>
 <h3>What is CRUD ?</h3>
 <h4>CRUD stands for Create, Read, Update and Delete</h4>
 <p>A To-Do List WebApp is created to implement the CRUD operations.</p>
