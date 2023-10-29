@@ -17,6 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['id'])) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
                 <title>Update Task</title>
+                <meta name="description" content="To-Do List Web App">
                 <link rel="icon" type="image/x-icon" href="resources/favicon.ico">
             </head>
             <body>
