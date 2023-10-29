@@ -27,27 +27,7 @@
             </tr>
         </thead>
         <tbody>
-        <?php
-    include("config.php");
-$query = "SELECT * FROM tasks";
-$statement = $pdo->prepare($query);
-$statement->execute();
-$rows = $statement->fetchAll(PDO::FETCH_ASSOC);
-if ($rows) {
-        while ($row = $result->fetch_assoc()) 
-        {
-            echo "<tr>";
-            echo "<td>" . $row['id'] . "</td>";
-            echo "<td>" . $row['task'] . "</td>";
-            echo "<td>" . $row['ts'] . "</td>";
-            echo "<td><a href='edit.php?id=" . $row['id'] . "' class='btn btn-primary'>Edit</a> 
-            <a href='delete.php?id=" . $row['id'] . "' class='btn btn-danger'>Delete</a></td>";
-            echo "</tr>";
-        }
-    } else {
-        echo "<tr><td colspan='3'>List is Empty !!!</td></tr>";
-    }
-    ?>
+      //show function
 </tbody>
     </table>
 </div>
