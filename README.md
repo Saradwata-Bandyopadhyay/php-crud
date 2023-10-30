@@ -13,4 +13,4 @@ Step 5: Create a database and the tables as mentioned in the Database codes.txt 
 Step 6: Open a browser and type http://localhost/folder_name_created_in_the_htdocs_folder/ in the search bar and hit ENTER.<br>
 TO BE NOTED: 
 <br><p>1> Both Apache and MySQL must be running properly.</p>
-<br><p>2> The downloaded repository must be kept in the htdocs folder.</p><br>
+<p>2> The downloaded repository must be kept in the htdocs folder.</p><br>
